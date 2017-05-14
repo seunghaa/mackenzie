@@ -1,24 +1,4 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://todoapp-mackenzie-seungha.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+## Todolist만들기
+ 1. https://www.youtube.com/watch?v=fd1Vn-Wvy2w&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-&index=6 맥킨지 강의를 보고 Todolist를 만들어보았다. 
+ 2. 무작정 따라하긴 했는데 모가몬지는 아직 잘 모르겠어서 몇번 더 해야 익숙해 질 것 같다. 
+ 3. 다양한 기능이나 다른 것에 많이 쓰일 수 있을 것 같다. 
